@@ -5,7 +5,7 @@
 
 ### Ohayou
 
-This is TuMusic made with [Discord.JS](https://discord.js.org/#/) Module I am not having any Support Server For Now Byt My Server will be Soon...
+This is TuMusic made with [Discord.JS](https://discord.js.org/#/) Module I am not having any Support Server For Now But My Server will be Soon...
 
 ---
 ### 😇My Features
